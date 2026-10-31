@@ -71,3 +71,16 @@ scripts/     synthetic-data generator and the aggregation/verification path
 ## Licence
 
 See `LICENSE`.
+
+## Related record
+
+This package accompanies **x402 Allocation Readiness Audit — v0.2** (Zenodo, 2026-10-04):
+<https://doi.org/10.5281/zenodo.23125475>
+
+**Do not compare the two headline numbers.** The *unregistered-payee share* reported here
+(`A_out / (A_out + no_payee)` over CHALLENGE settlements, 357 / 586 = 60.9%) is a
+registry-coverage metric. The "at most 84.1%" figure in the data note is a
+behavioural-fingerprint **bound on the share of settlement count** attributable to coordinated
+operator cohorts — a different numerator over a different denominator (addresses, not CHALLENGE
+rows). The two are not comparable and must not be placed in the same sentence.
+
