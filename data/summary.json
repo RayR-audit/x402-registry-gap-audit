@@ -1,0 +1,24 @@
+{
+  "n_rows": 617,
+  "probe_state": {
+    "CHALLENGE": 586,
+    "ERR": 11,
+    "HTTP_400": 2,
+    "NO_402": 3,
+    "HTTP_502": 2,
+    "HTTP_404": 4,
+    "HTTP_401": 1,
+    "HTTP_503": 6,
+    "HTTP_525": 1,
+    "HTTP_422": 1
+  },
+  "gap_type": {
+    "A_out": 357,
+    "no_payee": 229,
+    "": 31
+  },
+  "payee_in_registry": {
+    "0": 357,
+    "": 260
+  }
+}
